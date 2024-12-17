@@ -86,8 +86,8 @@ While others may focus on high-level design (HLD), my strength lies in breaking 
 
 ## 🤝 Let’s Connect!  
 
-- 🌐 **GitHub:** [github.com/kamalkalyan](#)  
-- 💼 **LinkedIn:** [linkedin.com/in/kamalkalyan](#)  
+- 🌐 **GitHub:** [https://github.com/D-KAMALKALYAN](#)  
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/kamalkalyan/](#)  
 - 📧 **Email:** kamalkalyan1260@gmail.com  
 
 ---
