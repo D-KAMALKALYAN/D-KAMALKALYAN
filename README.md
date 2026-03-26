@@ -1,95 +1,114 @@
-# 👨‍💻 **Kamal Kalyan** – Software Security Analyst | Future SDE 🚀  
+# 👨‍💻 Kamal Kalyan – Backend Engineer | Security-Focused Developer
 
-**_"I’m fueled by the thrill of turning complex problems into elegant, efficient code."_**  
-
----
-
-## 🌟 Welcome!  
-
-Hi, I’m **Kamal Kalyan**, a passionate **Software Security Analyst** at **TCS**, on a mission to craft secure and optimized software systems.  
-I specialize in **SAST** and **DAST**, ensuring robust application security while collaborating with clients to mitigate vulnerabilities.  
-
-Beyond security, I’m on a journey to become a **Software Development Engineer (SDE)**. My expertise spans **Full-Stack Development**, **Data Structures & Algorithms (DSA)**, and **System Design**, and I’m dedicated to building scalable, efficient, and secure solutions.  
+**Building scalable backend systems with a strong foundation in security and performance.**
 
 ---
 
-## 🔧 Skills & Expertise  
+## 🚀 About Me  
 
-### 🖥️ Programming Languages  
-- **JavaScript** | **Python** | **Java**  
+I’m **Kamal Kalyan**, a Backend Developer at TCS with prior experience as a Software Security Analyst.
 
-### 🌐 Full-Stack Development  
-- **Frontend:** React.js, HTML5, CSS3, Bootstrap  
-- **Backend:** Node.js, Express.js, REST APIs  
-- **Databases:** MongoDB, SQL, MySQL  
+- 💻 Currently building **scalable backend systems** using Java, Spring Boot, and PostgreSQL  
+- 🔒 Strong background in **application security (SAST, DAST, OWASP)**  
+- ⚙️ Interested in **system design, distributed systems, and performance engineering**  
+- 🚀 Actively working towards **SDE roles in product-based companies**
 
-### 🔒 Cybersecurity  
-- Proficient in **SAST** and **DAST** tools and techniques  
-- Experienced in secure coding practices to combat vulnerabilities  
-
-### 📚 DSA & Problem-Solving  
-- Solved 500+ problems across coding platforms  
-- Adept at writing clean, optimized algorithms  
+I focus on writing **clean, maintainable, and production-ready code**, with an emphasis on **scalability, security, and real-world impact**.
 
 ---
 
-## 🛠️ Highlight Projects  
+## 🛠️ Tech Stack  
 
-### [**Hotel Management System**](#)  
-**Tech Stack:** Java, Servlets, JDBC, JSP  
-- Developed a comprehensive system to manage bookings, customer data, and room availability.  
-- Leveraged **JDBC** for efficient database interactions and **Servlets** for seamless client-server communication.  
+**Languages:**  
+Java · JavaScript · Python  
 
-### [**Diabetes Disease Prediction**](#)  
-**Tech Stack:** Python, Machine Learning  
-- Built a model using 5 supervised ML algorithms with an accuracy of 76% (KNN).  
-- Engineered data features for stable, high-accuracy predictions.  
+**Backend:**  
+Spring Boot · Node.js · Express · REST APIs  
 
-### [**Portfolio Website**](#)  
-**Tech Stack:** HTML, CSS, Bootstrap, JavaScript  
-- Designed a responsive personal portfolio website showcasing skills and projects.  
- 
----
+**Frontend:**  
+React  
 
-## 🧠 My Passion  
+**Databases:**  
+PostgreSQL · MongoDB · MySQL  
 
-I thrive on **machine coding**, crafting core logic that powers applications and games. Whether it’s devising chess game rules or building algorithms for Splitwise-like apps, I love solving problems at their core.  
+**Security:**  
+SAST · DAST · OWASP Top 10 · JWT  
 
-While others may focus on high-level design (HLD), my strength lies in breaking down complex challenges and turning them into scalable, efficient code. Logic-building is my playground, and precision is my goal.  
+**Tools:**  
+Git · Supabase · Swagger/OpenAPI  
 
 ---
 
-## 🎯 Goals Driving Me  
+## 🔥 Key Projects  
 
-- 💻 Master **low-level design (LLD)** to write robust, efficient code for real-world challenges.  
-- 🚀 Elevate my expertise in the **MERN Stack** for seamless end-to-end solutions.  
-- 🛡️ Combine **cybersecurity** with **development** to build secure, innovative products.  
-- 🌟 Land an **SDE role** at a top-tier product-based company.  
+### 🚀 Backend-Driven Portfolio Platform  
+**PostgreSQL · Supabase · React**
 
----
-
-## 🌱 Currently Exploring  
-
-- **DSA** for competitive programming.  
-- **Node.js** and best practices for scalable backend solutions.  
-- Low-level design patterns and real-world application.  
+- Engineered a **fully backend-driven system** with a 12-table normalized schema (UUID, JSONB, triggers)  
+- Enforced **Row-Level Security (RLS)** for fine-grained access control at the database layer  
+- Built a **trigger-based analytics engine** for real-time content ranking  
+- Reduced content update effort by **~90%** via storage-triggered workflows  
 
 ---
 
-## 🎉 Fun Facts  
+### 🤖 Legacy Code Modernization Assistant  
+**Node.js · MongoDB · LLM APIs**
 
-- 💪 I believe in crafting my physique as much as my code! Fitness is a lifestyle.  
-- 🔎 Curiosity drives me – every bug is a chance to learn and grow.  
-- 🎨 Creativity meets logic in my approach to solving complex problems.  
-
----
-
-## 🤝 Let’s Connect!  
-
-- 🌐 **GitHub:** [https://github.com/D-KAMALKALYAN](#)  
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/kamalkalyan/](#)  
-- 📧 **Email:** kamalkalyan1260@gmail.com  
+- Built an **LLM-powered system** to analyze legacy code and generate modernization insights  
+- Designed **modular service boundaries** for microservice readiness  
+- Implemented **async job lifecycle management** for long-running analysis tasks  
 
 ---
 
-Feel free to explore my repositories, connect, and let’s build something remarkable together! 🚀
+### 🌐 SkillVerse – Peer Skill Platform  
+**Node.js · Socket.IO · MongoDB**
+
+- Developed a **real-time skill exchange platform** with live notifications  
+- Achieved **90% matching accuracy** using a tag-based recommendation algorithm  
+- Improved engagement, doubling active users  
+
+---
+
+### 🛡️ CodeGuardian – Vulnerability Scanner  
+**Node.js · React**
+
+- Built a scanner detecting vulnerabilities across **OWASP Top 10**  
+- Designed secure APIs for authentication and scan orchestration  
+
+---
+
+## 🧠 Core Strengths  
+
+- Backend System Design  
+- Database Modeling & Optimization  
+- API Design & Architecture  
+- Security-First Development  
+- Problem Solving (DSA)  
+
+---
+
+## 📈 Currently Focused On  
+
+- Designing **scalable and distributed systems**  
+- Deepening expertise in **backend performance & system design**  
+- Strengthening **DSA for product-based companies**
+
+---
+
+## 🎯 Goals  
+
+- Transition into a **Backend / SDE role** at a top product-based company  
+- Build systems that operate at **scale with strong reliability guarantees**  
+- Combine **security + backend engineering** to create robust systems  
+
+---
+
+## 🤝 Connect  
+
+- 💼 LinkedIn: https://www.linkedin.com/in/kamalkalyan/  
+- 🌐 Portfolio: https://backend-driven-portfolio.vercel.app/  
+- 📧 Email: kamalkalyan1260@gmail.com  
+
+---
+
+⭐ *Always open to collaborations, backend challenges, and building impactful systems.*
